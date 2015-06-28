@@ -16,7 +16,7 @@ def get_reddit_info(subreddit)
 
   # Iterate over each of the posts 
     # Put the title to the screen
-    # Put the url of the picture to the screen
+    # Put the author to the screen
     # Put a new line
 end
 
